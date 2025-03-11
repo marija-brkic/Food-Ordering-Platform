@@ -1,0 +1,74 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 Jul 2024, 19:25:02
+    Author     : marij
+*/
+
+.header{
+    background-image: url(uploads/hrana_slika.jpg);
+    height: 350px;
+    padding: 0px;
+    background-size: 25% 100%;
+}
+
+.menu{
+    background-color:  whitesmoke;
+    height: 1000px;
+    color: #000;
+}
+
+.message{
+    background-color: #117a8b;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.col-sm-10{
+    padding:0px !important;
+    height: 1000px;
+}
+
+.menu a{
+    color:black;
+}
+
+.menu a:hover{
+    color:lightgreen;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #117a8b;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.center1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    height: 1000px;
+    padding:0px !important;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
